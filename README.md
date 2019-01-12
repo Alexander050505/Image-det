@@ -11,7 +11,7 @@ To install we run 'conda install -c conda-forge pydicom' on the Anaconda Termina
 
 #Post-Installation 
 -Open the Anaconda Navigator. Launch Jupyter Notebook. Upload the python notebook.
--The files are generally placed in C:Users/Admin.(If admin is the current user)
+-The files are generally placed in C:Users/Admin.(If admin is the current user). Download and place the 'ttfm.dcm' and 'bmode.dcm' files     in the same folder as the Anaconda Jupyter notebook runs.
  (Incase any other user is running the code place the file in the corresponding folder of that user by copying the file manually.)
 -Run the Python notebook file (Dicom_image_metadata_extract.ipynb) by clicking on it.
  or Copy the code from the Dicom_image_metadata_extract.html file into a new Python file.
